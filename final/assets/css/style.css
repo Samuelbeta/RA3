@@ -1,0 +1,31 @@
+/*Aviso de privacidad */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #458ff6;
+    box-shadow: 0 0 10px rgba(250, 249, 249, 0.64);
+    text-decoration-color: #00ff00;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #333333;
+    font-size: 24px;
+    margin-top: 0;
+}
+
+section p {
+    color: #666;
+    font-size: 16px;
+}
+
+footer {
+    background-color: #458ff6;
+    color: #090909;
+    text-align: center;
+    padding: 10px;
+}
